@@ -1,10 +1,11 @@
 Sales Prediction using Machine Learning
-##Project Overview
+
+## Project Overview
 
 This project demonstrates how Machine Learning can be used to predict sales based on advertising expenditures across different platforms (TV, Radio, Newspaper).
 By applying regression models, businesses can estimate future sales and optimize their advertising budget for maximum impact.
 
- ##Dataset
+ ## Dataset
 
 The dataset advertising.csv contains 200 rows with the following columns:
 
@@ -16,7 +17,7 @@ Newspaper → Advertising budget spent on Newspaper (in $)
 
 Sales → Units sold (target variable)
 
-##Tools & Libraries Used
+## Tools & Libraries Used
 
 Python
 
@@ -75,7 +76,7 @@ Output:
 
 Predicted Sales: 21.09
 
-##Results & Insights
+## Results & Insights
 
 The model can accurately forecast sales from ad spend.
 
@@ -85,10 +86,10 @@ Newspaper ads contribute less compared to TV & Radio.
 
 Random Forest provides a more robust prediction than Linear Regression.
 
-##Conclusion
+## Conclusion
 
 This project shows how businesses can use machine learning in Python to make data-driven decisions for advertising strategies.
 By identifying the most effective advertising channels, companies can maximize sales while minimizing costs.
 
-##Author
+## Author
 Ankita Biswas - ankitaab 
