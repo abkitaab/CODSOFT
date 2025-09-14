@@ -27,5 +27,6 @@ The dataset is highly imbalanced, so techniques like **SMOTE** are applied to ba
 
 ## Author
 
-Your Name
+ANKITA BISWAS 
+github - ankitaab
 Data Science Intern – CODSOFT
